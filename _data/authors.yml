@@ -1,0 +1,18 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+shwars:
+  name: "Дмитрий Сошников"
+  postfix: "к.ф.-м.н."
+  img: "dmitry-soshnikov.png"
+  role: "Доцент МАИ, НИУ ВШЭ, технический руководитель AI Lab Школы дизайна НИУ ВШЭ, консультант Yandex Cloud"
+  siterole: "admin"
+  uri: http://soshnikov.com/
+  email: dsoshnikov@yandex-team.ru
+  telegram: "shwarsico"
+  github: "shwars"
+  about: "16 лет работал в Microsoft, сначала технологическим евангелистом, затем ведущим экспертом по искусственному интеллекту и машинному обучению. Встречался с Биллом Гейтсом, выступал на одной сцене со Стивом Балмером и Алексеем Пажитновым. В настоящее время являюсь доцентом НИУ ВШЭ и МАИ, исследую применение генеративного ИИ в Школе дизайна НИУ ВШЭ, творю искусство и иногда проводу чайные церемонии Гун Фу Ча"

@@ -1,0 +1,30 @@
+- title: Домой
+  url: "/"
+  side: left
+
+- title: "Доступ к облаку"
+  side: left
+  dropdown:
+    - title: "Для образования и науки"
+      url: "https://cloud.yandex.ru/for-education-and-science"
+    - title: "Гранты"
+      url: "https://cloud.yandex.ru/datasphere-education-program"
+    - title: "Пробный период"
+      url: "https://cloud.yandex.ru/docs/free-trial/"
+- title: "Вводные уроки"
+  url: "/quickstart/"
+  side: left
+- title: "Код"
+  url: "https://github.com/yandex-datasphere"
+  dropdown:
+    - title: "Мастер-классы"
+      url: /samples/masterclasses
+  side: left
+- title: "Сообщество"
+  side: left
+  dropdown:
+    - title: "Telegram-канал о датасфере"
+    - url: "https://t.me/yandex_datasphere"
+- title: "О нас"
+  url: "/about/"
+  side: right
