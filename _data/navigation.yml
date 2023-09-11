@@ -23,8 +23,10 @@
 - title: "Сообщество"
   side: left
   dropdown:
+    - title: "Академическое сообщество Yandex Cloud в Telegram"
+      url: "https://t.me/YandexCloudEdu"
     - title: "Telegram-канал о датасфере"
-    - url: "https://t.me/yandex_datasphere"
+      url: "https://t.me/yandex_datasphere"
 - title: "О нас"
   url: "/about/"
   side: right

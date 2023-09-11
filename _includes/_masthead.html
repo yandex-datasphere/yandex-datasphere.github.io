@@ -14,10 +14,6 @@
 {% include _breadcrumb.html %}
 {% endif %}
 
-
-
-
-
 {% elsif page.header.title %}
 
 <div id="masthead-with-text" style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.image_fullwidth %}{% elsif page.header.pattern %}background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url('{{ site.urlimg }}/{{ page.header.pattern }}'){% endif %}">
@@ -42,10 +38,6 @@
 </div>
 {% endif %}
 
-
-
-
-
 {% elsif page.header.image_fullwidth %}
 
 <div id="masthead">
@@ -55,7 +47,7 @@
 			    {% if site.logo %}
 				<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo }}" alt="{{ site.title }} – {{ site.slogan }}">
 			    {% else %}
-				<div style="margin-top: 10px; text-align: center; font-family: SegoeUI, Verdana, Sans Serif; font-size: 5vw;">
+				<div style="margin-top: 13px; text-align: center; font-family: SegoeUI, Verdana, Sans Serif; font-size: 4vw;">
 				{{ site.title }}
 				</div>
 				{% endif %}
@@ -77,10 +69,6 @@
 	{{ page.header.caption }}
 </div>
 {% endif %}
-
-
-
-
 
 {% elsif page.header.pattern %}
 
@@ -106,10 +94,6 @@
 </div>
 {% endif %}
 
-
-
-
-
 {% elsif page.header.background-color %}
 
 <div id="masthead-with-background-color" style="background: {{ page.header.background-color }};">
@@ -133,10 +117,6 @@
 	{{ page.header.caption }}
 </div>
 {% endif %}
-
-
-
-
 
 {% elsif page.header == false %}
 

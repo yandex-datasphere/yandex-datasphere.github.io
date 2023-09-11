@@ -11,17 +11,21 @@ widget1:
   title: "О сайте"
   url: '/info/'
   #image: widget-1-302x182.jpg
-  text: 'Добро пожаловать на страничку сообщества Yandex DataSphere в образовании и научных исследованиях! Здесь вы найдёте всю необходимую информацию о том, как начать использовать DataSphere в учебном процессе, включая серию <a href="/quickstarts">серию вводных видео</a>, <a href="https://github.com/yandex-datasphere">примеры кода</a> и многое другое. Задать свои вопросы и пообщаться с коллегами можно <a href="http://t.me/yandex-datasphere">в телеграм-канале</a>' 
+  text: 'Добро пожаловать на страничку сообщества Yandex DataSphere в образовании и научных исследованиях! Здесь вы найдёте всю необходимую информацию о том, как начать использовать DataSphere в учебном процессе, включая серию <a href="/quickstarts">серию вводных видео</a>, <a href="https://github.com/yandex-datasphere">примеры кода</a> и многое другое. Задать свои вопросы и пообщаться с коллегами можно <a href="https://t.me/YandexCloudEdu">в телеграм-канале образовательного сообщества Yandex Cloud</a>, а сугубо технические вопросы - <a href="http://t.me/yandex-datasphere">в телеграм-канале DataSphere</a>' 
 widget2:
   title: "Вводные видео"
   url: '/quickstart/'
   text: 'В этой серии коротких видео мы расскажем вам, что такое Yandex DataSphere, и как начать использовать её в образовательном процессе и научных исследованиях.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="/images/intro_video.png" alt=""/></a>'
 widget3:
-  title: "Документация"
-  url: 'https://cloud.yandex.ru/docs/datasphere/'
-  image: datasphere_logo.jpg
-  text: 'Официальная документация - это всегда самый достоверный и актуальный источник информации о продукте!'
+  title: "Частые вопросы"
+  url: '/faq'
+  text: 'Смотрите подготовленные нами ответы на самые часто задаваемые студентами и преподавателями вопросы <a href="/faq">по использованию Yandex DataSphere в образовательном процессе и научных исследованиях</a>, или <a href="/faq/technical">технические вопросы</a>.'
+#widget3:
+#  title: "Документация"
+#  url: 'https://cloud.yandex.ru/docs/datasphere/'
+#  image: datasphere_logo.jpg
+#  text: 'Официальная документация - это всегда самый достоверный и актуальный источник информации о продукте!'
 #
 # Use the call for action to show a button on the frontpage
 #
